@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/AddFriends"
+        android:icon="@mipmap/ic_launcher"
+        android:title="后台运行">
+    </item>
+
+    <item android:id="@+id/ClearStep"
+        android:iconTint="@color/colorPrimary"
+        android:title="清楚步数">
+    </item>
+
+    <item android:id="@+id/Signout"
+        android:icon="@mipmap/mima"
+        android:iconTint="@color/colorPrimary"
+        android:title="退出">
+    </item>
+
+</menu>

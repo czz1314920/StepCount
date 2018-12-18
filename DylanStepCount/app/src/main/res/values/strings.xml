@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">广商计步器</string>
+
+    <!--activity_registration.xml注册界面-->
+    <string name="RegName">用户名称</string>
+    <string name="RegPass">用户密码</string>
+    <string name="RegPassConfirm">密码确认</string>
+    <string name="RegSex">新用户注册性别</string>
+    <string name="RegAge">新用户注册年龄</string>
+</resources>
